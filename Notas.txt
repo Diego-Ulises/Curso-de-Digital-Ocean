@@ -1,0 +1,19 @@
+¿Qué es Digital Ocean?
+La “nube” son sólo servicios a los que tienes acceso a través de Internet, existen tres categorías:
+
+SaaS: Software as a Service.
+PaaS: Platform as a Service.
+IaaS: Infrastructure as a Service.
+Digital Ocean es una solución de infraestructura muy bien documentada que entra en la categoría IaaS y tiene precios competitivos además de permitir métodos de pago como PayPal.
+
+Software-as-a-Service (SaaS): 
+Todo el desarrollo, mantenimiento, actualizaciones, copias de seguridad es responsabilidad del proveedor, es decir, si el servicio se cae es responsabilidad del proveedor volver a hacer que funcione.
+Ejemplos : El Webmail de Gmail, Google Docs, Salesforce, Dropbox
+
+Platform-as-a-Service (PaaS):
+Nuestra única preocupación es la construcción de nuestra aplicación, ya que la infraestructura nos la da la plataforma, pero también debemos centrarnos en que estén lo mejor optimizadas posibles para consumir menos recursos posibles.
+Ejemplos: Google App Engine, Heroku
+
+Infraestructure-as-a-Service (IaaS):
+Tendremos mucho más control que con PaaS, pero deberemos encargarnos de la gestión de infraestructura,escalar nuestras aplicaciones según nuestras necesidades, además de preparar todo el entorno en las maquinas.
+Ejemplos: Amazon Web Service (AWS)
